@@ -2,40 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03914004-6eeb-4e32-a23c-542206341d18" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_7_0_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/SessionServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/SimpleContextConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AbstractClassVistor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AddField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/TestBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/bishi/Sort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/com/brainysoftware/pyrmont/util/HttpSniffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/BoundedHashSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/Computable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/ExpensiveFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/Memoizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/Memoizer2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/Memoizer3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/concurrent/chapter5/Memoizer4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/jvm/MBeanDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/HttpServer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/Request.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/Response.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/ServerProcessor1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/StaticResourceProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/connector/HttpConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/tomcatlearning/servlet/PrimitiveServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/.idea/misc.xml" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../NettyLearning/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/NettyLearning.iml" afterPath="$PROJECT_DIR$/../NettyLearning/NettyLearning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/pom.xml" afterPath="$PROJECT_DIR$/../NettyLearning/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AbstractClassVistor.java" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AbstractClassVistor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AddField.java" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/AddField.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/TestBean.java" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/asm/TestBean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/src/main/java/bishi/Sort.java" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/bishi/Sort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NettyLearning/src/main/java/jvm/MBeanDemo.java" afterPath="$PROJECT_DIR$/../NettyLearning/src/main/java/jvm/MBeanDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../NettyLearning/out/" />
     <ignored path="$PROJECT_DIR$/../NettyLearning/target/" />
@@ -356,6 +329,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NettyLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NettyLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jvm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -953,7 +952,7 @@
       <workItem from="1534142491945" duration="1695000" />
       <workItem from="1534210394191" duration="1180000" />
       <workItem from="1534384320394" duration="3674000" />
-      <workItem from="1534729252508" duration="4469000" />
+      <workItem from="1534729252508" duration="4816000" />
     </task>
     <task id="LOCAL-00001" summary="4.13">
       <created>1523609894272</created>
@@ -997,7 +996,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526886620221</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4.16">
+      <created>1534733801752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534733801752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1033,7 +1039,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231996000" />
+    <option name="totallyTimeSpent" value="232343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
